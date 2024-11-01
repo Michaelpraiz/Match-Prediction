@@ -1,0 +1,283 @@
+Date,Time,Team,Round,Day,Result,GF,GA,Opponent,xG,xGA,Poss,Captain,Formation,Opp Formation,Referee,Sh,SoT,Dist,FK,PK,PKatt,Season
+2024-08-17,12:30,Liverpool,Matchweek 1,Sat,W,2.0,0.0,Ipswich Town,2.6,0.5,62.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tim Robinson,18,5,14.8,0.0,0,0,2025
+2024-08-25,16:30,Liverpool,Matchweek 2,Sun,W,2.0,0.0,Brentford,2.5,0.5,62.0,Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,19,8,13.6,1.0,0,0,2025
+2024-09-01,16:00,Liverpool,Matchweek 3,Sun,W,3.0,0.0,Manchester Utd,1.8,1.4,47.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,11,3,13.4,0.0,0,0,2025
+2024-09-14,15:00,Liverpool,Matchweek 4,Sat,L,0.0,1.0,Nott'ham Forest,0.9,0.4,68.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,14,5,14.9,0.0,0,0,2025
+2024-09-21,15:00,Liverpool,Matchweek 5,Sat,W,3.0,0.0,Bournemouth,2.0,1.1,58.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tony Harrington,19,12,16.6,0.0,0,0,2025
+2024-09-28,17:30,Liverpool,Matchweek 6,Sat,W,2.0,1.0,Wolves,2.5,0.6,55.0,Virgil van Dijk,4-2-3-1,4-1-4-1,Anthony Taylor,9,5,18.0,1.0,1,1,2025
+2024-08-18,16:30,Manchester City,Matchweek 1,Sun,W,2.0,0.0,Chelsea,0.8,1.0,52.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Anthony Taylor,11,5,19.1,0.0,0,0,2025
+2024-08-24,15:00,Manchester City,Matchweek 2,Sat,W,4.0,1.0,Ipswich Town,3.3,0.3,75.0,Kevin De Bruyne,3-2-4-1,5-4-1,Samuel Allison,13,4,17.8,1.0,1,1,2025
+2024-08-31,17:30,Manchester City,Matchweek 3,Sat,W,3.0,1.0,West Ham,3.0,0.7,67.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Michael Oliver,23,8,15.0,1.0,0,0,2025
+2024-09-14,15:00,Manchester City,Matchweek 4,Sat,W,2.0,1.0,Brentford,2.1,1.0,54.0,Kyle Walker,4-2-3-1,5-3-2,Darren Bond,18,7,17.2,0.0,0,0,2025
+2024-09-22,16:30,Manchester City,Matchweek 5,Sun,D,2.0,2.0,Arsenal,2.1,0.7,77.0,Kyle Walker,4-3-3,4-4-2,Michael Oliver,33,11,20.2,1.0,0,0,2025
+2024-09-28,12:30,Manchester City,Matchweek 6,Sat,D,1.0,1.0,Newcastle Utd,0.9,1.6,62.0,Kyle Walker,4-2-3-1,4-3-3,Jarred Gillett,16,6,17.6,0.0,0,0,2025
+2024-08-17,15:00,Arsenal,Matchweek 1,Sat,W,2.0,0.0,Wolves,1.2,0.5,53.0,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,18,6,17.3,0.0,0,0,2025
+2024-08-24,17:30,Arsenal,Matchweek 2,Sat,W,2.0,0.0,Aston Villa,0.9,1.2,60.0,Martin Ødegaard,4-3-3,4-4-2,Michael Oliver,9,4,18.8,0.0,0,0,2025
+2024-08-31,12:30,Arsenal,Matchweek 3,Sat,D,1.0,1.0,Brighton,2.1,1.7,36.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,11,7,12.9,0.0,0,0,2025
+2024-09-15,14:00,Arsenal,Matchweek 4,Sun,W,1.0,0.0,Tottenham,0.7,0.7,37.0,Jorginho,4-4-2,4-3-3,Jarred Gillett,7,4,12.1,0.0,0,0,2025
+2024-09-22,16:30,Arsenal,Matchweek 5,Sun,D,2.0,2.0,Manchester City,0.7,2.1,23.0,Bukayo Saka,4-4-2,4-3-3,Michael Oliver,5,3,11.3,0.0,0,0,2025
+2024-09-28,15:00,Arsenal,Matchweek 6,Sat,W,4.0,2.0,Leicester City,4.4,0.3,74.0,Bukayo Saka,4-4-2,4-2-3-1,Samuel Barrott,35,16,14.1,0.0,0,0,2025
+2024-08-18,16:30,Chelsea,Matchweek 1,Sun,L,0.0,2.0,Manchester City,1.0,0.8,48.0,Enzo Fernández,4-2-3-1,3-2-4-1,Anthony Taylor,10,3,17.1,0.0,0,0,2025
+2024-08-25,14:00,Chelsea,Matchweek 2,Sun,W,6.0,2.0,Wolves,1.6,1.9,60.0,Enzo Fernández,4-2-3-1,4-2-3-1,Darren England,14,8,15.4,1.0,0,0,2025
+2024-09-01,13:30,Chelsea,Matchweek 3,Sun,D,1.0,1.0,Crystal Palace,2.4,0.5,62.0,Enzo Fernández,4-2-3-1,3-4-3,Jarred Gillett,13,7,15.9,1.0,0,0,2025
+2024-09-14,20:00,Chelsea,Matchweek 4,Sat,W,1.0,0.0,Bournemouth,0.8,1.7,66.0,Moisés Caicedo,4-2-3-1,4-2-3-1,Anthony Taylor,10,3,18.2,0.0,0,0,2025
+2024-09-21,12:30,Chelsea,Matchweek 5,Sat,W,3.0,0.0,West Ham,2.2,0.9,47.0,Enzo Fernández,4-2-3-1,3-4-3,Samuel Barrott,12,5,15.0,0.0,0,0,2025
+2024-09-28,15:00,Chelsea,Matchweek 6,Sat,W,4.0,2.0,Brighton,4.2,1.1,41.0,Enzo Fernández,4-2-3-1,4-3-3,Peter Bankes,14,5,15.7,1.0,1,1,2025
+2024-08-17,17:30,Aston Villa,Matchweek 1,Sat,W,2.0,1.0,West Ham,2.0,2.3,48.0,John McGinn,4-2-3-1,4-1-4-1,Tony Harrington,15,3,15.2,0.0,0,0,2025
+2024-08-24,17:30,Aston Villa,Matchweek 2,Sat,L,0.0,2.0,Arsenal,1.2,0.9,40.0,John McGinn,4-4-2,4-3-3,Michael Oliver,11,3,16.0,0.0,0,0,2025
+2024-08-31,15:00,Aston Villa,Matchweek 3,Sat,W,2.0,1.0,Leicester City,1.4,0.4,43.0,John McGinn,4-4-2,4-2-3-1,David Coote,10,5,17.9,0.0,0,0,2025
+2024-09-14,17:30,Aston Villa,Matchweek 4,Sat,W,3.0,2.0,Everton,2.1,0.9,72.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,17,7,14.0,0.0,0,0,2025
+2024-09-21,15:00,Aston Villa,Matchweek 5,Sat,W,3.0,1.0,Wolves,1.7,0.5,53.0,John McGinn,4-2-3-1,4-1-4-1,Tim Robinson,9,3,13.7,1.0,0,0,2025
+2024-09-29,14:00,Aston Villa,Matchweek 6,Sun,D,2.0,2.0,Ipswich Town,0.8,1.2,56.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Stuart Attwell,7,3,19.0,1.0,0,0,2025
+2024-08-16,20:00,Fulham,Matchweek 1,Fri,L,0.0,1.0,Manchester Utd,0.4,2.4,45.0,Bernd Leno,4-2-3-1,4-2-3-1,Robert Jones,10,2,16.9,0.0,0,0,2025
+2024-08-24,15:00,Fulham,Matchweek 2,Sat,W,2.0,1.0,Leicester City,1.8,0.6,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Darren Bond,18,6,15.8,1.0,0,0,2025
+2024-08-31,15:00,Fulham,Matchweek 3,Sat,D,1.0,1.0,Ipswich Town,0.9,0.4,52.0,Bernd Leno,4-3-3,4-2-3-1,Lewis Smith,9,4,13.1,0.0,0,0,2025
+2024-09-14,15:00,Fulham,Matchweek 4,Sat,D,1.0,1.0,West Ham,1.5,0.8,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Tim Robinson,21,5,16.4,2.0,0,0,2025
+2024-09-21,15:00,Fulham,Matchweek 5,Sat,W,3.0,1.0,Newcastle Utd,2.2,1.5,39.0,Bernd Leno,4-2-3-1,4-3-3,Peter Bankes,22,11,15.4,0.0,0,0,2025
+2024-09-28,15:00,Fulham,Matchweek 6,Sat,W,1.0,0.0,Nott'ham Forest,1.3,0.8,59.0,Bernd Leno,4-2-3-1,4-4-2,Joshua Smith,13,1,20.2,0.0,1,1,2025
+2024-08-17,15:00,Newcastle United,Matchweek 1,Sat,W,1.0,0.0,Southampton,0.3,1.8,23.0,Bruno Guimarães,4-3-3,3-5-2,Craig Pawson,3,1,13.2,0.0,0,0,2025
+2024-08-25,14:00,Newcastle United,Matchweek 2,Sun,D,1.0,1.0,Bournemouth,1.6,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,David Coote,14,5,12.6,0.0,0,0,2025
+2024-09-01,13:30,Newcastle United,Matchweek 3,Sun,W,2.0,1.0,Tottenham,1.8,1.2,35.0,Bruno Guimarães,4-3-3,4-2-3-1,Robert Jones,9,3,14.0,0.0,0,0,2025
+2024-09-15,16:30,Newcastle United,Matchweek 4,Sun,W,2.0,1.0,Wolves,1.5,1.2,51.0,Bruno Guimarães,4-3-3,4-4-1-1,Chris Kavanagh,14,6,17.9,0.0,0,0,2025
+2024-09-21,15:00,Newcastle United,Matchweek 5,Sat,L,1.0,3.0,Fulham,1.5,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,16,5,16.9,1.0,0,0,2025
+2024-09-28,12:30,Newcastle United,Matchweek 6,Sat,D,1.0,1.0,Manchester City,1.6,0.9,38.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,10,3,15.1,0.0,1,1,2025
+2024-08-17,12:30,Liverpool,Matchweek 1,Sat,W,2.0,0.0,Ipswich Town,2.6,0.5,62.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tim Robinson,18,5,14.8,0.0,0,0,2025
+2024-08-25,16:30,Liverpool,Matchweek 2,Sun,W,2.0,0.0,Brentford,2.5,0.5,62.0,Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,19,8,13.6,1.0,0,0,2025
+2024-09-01,16:00,Liverpool,Matchweek 3,Sun,W,3.0,0.0,Manchester Utd,1.8,1.4,47.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,11,3,13.4,0.0,0,0,2025
+2024-09-14,15:00,Liverpool,Matchweek 4,Sat,L,0.0,1.0,Nott'ham Forest,0.9,0.4,68.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,14,5,14.9,0.0,0,0,2025
+2024-09-21,15:00,Liverpool,Matchweek 5,Sat,W,3.0,0.0,Bournemouth,2.0,1.1,58.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tony Harrington,19,12,16.6,0.0,0,0,2025
+2024-09-28,17:30,Liverpool,Matchweek 6,Sat,W,2.0,1.0,Wolves,2.5,0.6,55.0,Virgil van Dijk,4-2-3-1,4-1-4-1,Anthony Taylor,9,5,18.0,1.0,1,1,2025
+2024-08-18,16:30,Manchester City,Matchweek 1,Sun,W,2.0,0.0,Chelsea,0.8,1.0,52.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Anthony Taylor,11,5,19.1,0.0,0,0,2025
+2024-08-24,15:00,Manchester City,Matchweek 2,Sat,W,4.0,1.0,Ipswich Town,3.3,0.3,75.0,Kevin De Bruyne,3-2-4-1,5-4-1,Samuel Allison,13,4,17.8,1.0,1,1,2025
+2024-08-31,17:30,Manchester City,Matchweek 3,Sat,W,3.0,1.0,West Ham,3.0,0.7,67.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Michael Oliver,23,8,15.0,1.0,0,0,2025
+2024-09-14,15:00,Manchester City,Matchweek 4,Sat,W,2.0,1.0,Brentford,2.1,1.0,54.0,Kyle Walker,4-2-3-1,5-3-2,Darren Bond,18,7,17.2,0.0,0,0,2025
+2024-09-22,16:30,Manchester City,Matchweek 5,Sun,D,2.0,2.0,Arsenal,2.1,0.7,77.0,Kyle Walker,4-3-3,4-4-2,Michael Oliver,33,11,20.2,1.0,0,0,2025
+2024-09-28,12:30,Manchester City,Matchweek 6,Sat,D,1.0,1.0,Newcastle Utd,0.9,1.6,62.0,Kyle Walker,4-2-3-1,4-3-3,Jarred Gillett,16,6,17.6,0.0,0,0,2025
+2024-08-17,15:00,Arsenal,Matchweek 1,Sat,W,2.0,0.0,Wolves,1.2,0.5,53.0,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,18,6,17.3,0.0,0,0,2025
+2024-08-24,17:30,Arsenal,Matchweek 2,Sat,W,2.0,0.0,Aston Villa,0.9,1.2,60.0,Martin Ødegaard,4-3-3,4-4-2,Michael Oliver,9,4,18.8,0.0,0,0,2025
+2024-08-31,12:30,Arsenal,Matchweek 3,Sat,D,1.0,1.0,Brighton,2.1,1.7,36.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,11,7,12.9,0.0,0,0,2025
+2024-09-15,14:00,Arsenal,Matchweek 4,Sun,W,1.0,0.0,Tottenham,0.7,0.7,37.0,Jorginho,4-4-2,4-3-3,Jarred Gillett,7,4,12.1,0.0,0,0,2025
+2024-09-22,16:30,Arsenal,Matchweek 5,Sun,D,2.0,2.0,Manchester City,0.7,2.1,23.0,Bukayo Saka,4-4-2,4-3-3,Michael Oliver,5,3,11.3,0.0,0,0,2025
+2024-09-28,15:00,Arsenal,Matchweek 6,Sat,W,4.0,2.0,Leicester City,4.4,0.3,74.0,Bukayo Saka,4-4-2,4-2-3-1,Samuel Barrott,35,16,14.1,0.0,0,0,2025
+2024-08-18,16:30,Chelsea,Matchweek 1,Sun,L,0.0,2.0,Manchester City,1.0,0.8,48.0,Enzo Fernández,4-2-3-1,3-2-4-1,Anthony Taylor,10,3,17.1,0.0,0,0,2025
+2024-08-25,14:00,Chelsea,Matchweek 2,Sun,W,6.0,2.0,Wolves,1.6,1.9,60.0,Enzo Fernández,4-2-3-1,4-2-3-1,Darren England,14,8,15.4,1.0,0,0,2025
+2024-09-01,13:30,Chelsea,Matchweek 3,Sun,D,1.0,1.0,Crystal Palace,2.4,0.5,62.0,Enzo Fernández,4-2-3-1,3-4-3,Jarred Gillett,13,7,15.9,1.0,0,0,2025
+2024-09-14,20:00,Chelsea,Matchweek 4,Sat,W,1.0,0.0,Bournemouth,0.8,1.7,66.0,Moisés Caicedo,4-2-3-1,4-2-3-1,Anthony Taylor,10,3,18.2,0.0,0,0,2025
+2024-09-21,12:30,Chelsea,Matchweek 5,Sat,W,3.0,0.0,West Ham,2.2,0.9,47.0,Enzo Fernández,4-2-3-1,3-4-3,Samuel Barrott,12,5,15.0,0.0,0,0,2025
+2024-09-28,15:00,Chelsea,Matchweek 6,Sat,W,4.0,2.0,Brighton,4.2,1.1,41.0,Enzo Fernández,4-2-3-1,4-3-3,Peter Bankes,14,5,15.7,1.0,1,1,2025
+2024-08-17,17:30,Aston Villa,Matchweek 1,Sat,W,2.0,1.0,West Ham,2.0,2.3,48.0,John McGinn,4-2-3-1,4-1-4-1,Tony Harrington,15,3,15.2,0.0,0,0,2025
+2024-08-24,17:30,Aston Villa,Matchweek 2,Sat,L,0.0,2.0,Arsenal,1.2,0.9,40.0,John McGinn,4-4-2,4-3-3,Michael Oliver,11,3,16.0,0.0,0,0,2025
+2024-08-31,15:00,Aston Villa,Matchweek 3,Sat,W,2.0,1.0,Leicester City,1.4,0.4,43.0,John McGinn,4-4-2,4-2-3-1,David Coote,10,5,17.9,0.0,0,0,2025
+2024-09-14,17:30,Aston Villa,Matchweek 4,Sat,W,3.0,2.0,Everton,2.1,0.9,72.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,17,7,14.0,0.0,0,0,2025
+2024-09-21,15:00,Aston Villa,Matchweek 5,Sat,W,3.0,1.0,Wolves,1.7,0.5,53.0,John McGinn,4-2-3-1,4-1-4-1,Tim Robinson,9,3,13.7,1.0,0,0,2025
+2024-09-29,14:00,Aston Villa,Matchweek 6,Sun,D,2.0,2.0,Ipswich Town,0.8,1.2,56.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Stuart Attwell,7,3,19.0,1.0,0,0,2025
+2024-08-16,20:00,Fulham,Matchweek 1,Fri,L,0.0,1.0,Manchester Utd,0.4,2.4,45.0,Bernd Leno,4-2-3-1,4-2-3-1,Robert Jones,10,2,16.9,0.0,0,0,2025
+2024-08-24,15:00,Fulham,Matchweek 2,Sat,W,2.0,1.0,Leicester City,1.8,0.6,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Darren Bond,18,6,15.8,1.0,0,0,2025
+2024-08-31,15:00,Fulham,Matchweek 3,Sat,D,1.0,1.0,Ipswich Town,0.9,0.4,52.0,Bernd Leno,4-3-3,4-2-3-1,Lewis Smith,9,4,13.1,0.0,0,0,2025
+2024-09-14,15:00,Fulham,Matchweek 4,Sat,D,1.0,1.0,West Ham,1.5,0.8,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Tim Robinson,21,5,16.4,2.0,0,0,2025
+2024-09-21,15:00,Fulham,Matchweek 5,Sat,W,3.0,1.0,Newcastle Utd,2.2,1.5,39.0,Bernd Leno,4-2-3-1,4-3-3,Peter Bankes,22,11,15.4,0.0,0,0,2025
+2024-09-28,15:00,Fulham,Matchweek 6,Sat,W,1.0,0.0,Nott'ham Forest,1.3,0.8,59.0,Bernd Leno,4-2-3-1,4-4-2,Joshua Smith,13,1,20.2,0.0,1,1,2025
+2024-08-17,15:00,Newcastle United,Matchweek 1,Sat,W,1.0,0.0,Southampton,0.3,1.8,23.0,Bruno Guimarães,4-3-3,3-5-2,Craig Pawson,3,1,13.2,0.0,0,0,2025
+2024-08-25,14:00,Newcastle United,Matchweek 2,Sun,D,1.0,1.0,Bournemouth,1.6,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,David Coote,14,5,12.6,0.0,0,0,2025
+2024-09-01,13:30,Newcastle United,Matchweek 3,Sun,W,2.0,1.0,Tottenham,1.8,1.2,35.0,Bruno Guimarães,4-3-3,4-2-3-1,Robert Jones,9,3,14.0,0.0,0,0,2025
+2024-09-15,16:30,Newcastle United,Matchweek 4,Sun,W,2.0,1.0,Wolves,1.5,1.2,51.0,Bruno Guimarães,4-3-3,4-4-1-1,Chris Kavanagh,14,6,17.9,0.0,0,0,2025
+2024-09-21,15:00,Newcastle United,Matchweek 5,Sat,L,1.0,3.0,Fulham,1.5,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,16,5,16.9,1.0,0,0,2025
+2024-09-28,12:30,Newcastle United,Matchweek 6,Sat,D,1.0,1.0,Manchester City,1.6,0.9,38.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,10,3,15.1,0.0,1,1,2025
+2024-08-19,20:00,Tottenham Hotspur,Matchweek 1,Mon,D,1.0,1.0,Leicester City,1.2,1.0,70.0,Son Heung-min,4-3-3,4-2-3-1,Chris Kavanagh,15,6,13.7,0.0,0,0,2025
+2024-08-24,15:00,Tottenham Hotspur,Matchweek 2,Sat,W,4.0,0.0,Everton,2.4,1.0,70.0,Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,13,7,14.1,1.0,0,0,2025
+2024-09-01,13:30,Tottenham Hotspur,Matchweek 3,Sun,L,1.0,2.0,Newcastle Utd,1.2,1.8,65.0,Son Heung-min,4-2-3-1,4-3-3,Robert Jones,20,6,19.9,1.0,0,0,2025
+2024-09-15,14:00,Tottenham Hotspur,Matchweek 4,Sun,L,0.0,1.0,Arsenal,0.7,0.7,63.0,Son Heung-min,4-3-3,4-4-2,Jarred Gillett,15,5,18.1,0.0,0,0,2025
+2024-09-21,15:00,Tottenham Hotspur,Matchweek 5,Sat,W,3.0,1.0,Brentford,3.5,0.8,48.0,Son Heung-min,4-3-3,5-3-2,John Brooks,23,9,14.4,0.0,0,0,2025
+2024-09-29,16:30,Tottenham Hotspur,Matchweek 6,Sun,W,3.0,0.0,Manchester Utd,4.4,1.0,61.0,Cristian Romero,4-3-3,4-2-3-1,Chris Kavanagh,24,10,14.6,0.0,0,0,2025
+2024-08-17,15:00,Brighton and Hove Albion,Matchweek 1,Sat,W,3.0,0.0,Everton,1.4,0.5,60.0,Lewis Dunk,4-2-3-1,4-2-3-1,Simon Hooper,10,5,13.8,0.0,0,0,2025
+2024-08-24,12:30,Brighton and Hove Albion,Matchweek 2,Sat,W,2.0,1.0,Manchester Utd,2.1,1.4,48.0,Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson,14,4,14.2,1.0,0,0,2025
+2024-08-31,12:30,Brighton and Hove Albion,Matchweek 3,Sat,D,1.0,1.0,Arsenal,1.7,2.1,64.0,Lewis Dunk,4-2-3-1,4-3-3,Chris Kavanagh,22,4,19.3,0.0,0,0,2025
+2024-09-14,15:00,Brighton and Hove Albion,Matchweek 4,Sat,D,0.0,0.0,Ipswich Town,1.6,0.3,68.0,Lewis Dunk,4-4-2,4-2-3-1,Samuel Barrott,21,6,18.5,2.0,0,0,2025
+2024-09-22,14:00,Brighton and Hove Albion,Matchweek 5,Sun,D,2.0,2.0,Nott'ham Forest,1.0,1.4,70.0,Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones,14,3,17.4,1.0,0,0,2025
+2024-09-28,15:00,Brighton and Hove Albion,Matchweek 6,Sat,L,2.0,4.0,Chelsea,1.1,4.2,59.0,Lewis Dunk,4-3-3,4-2-3-1,Peter Bankes,15,5,20.1,2.0,0,0,2025
+2024-08-17,15:00,Nottingham Forest,Matchweek 1,Sat,D,1.0,1.0,Bournemouth,1.3,1.2,53.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Oliver,14,8,19.2,0.0,0,0,2025
+2024-08-24,15:00,Nottingham Forest,Matchweek 2,Sat,W,1.0,0.0,Southampton,2.2,0.1,36.0,Morgan Gibbs-White,4-2-3-1,3-5-2,Samuel Barrott,23,8,17.2,0.0,0,0,2025
+2024-08-31,15:00,Nottingham Forest,Matchweek 3,Sat,D,1.0,1.0,Wolves,1.0,0.7,52.0,Morgan Gibbs-White,4-2-3-1,4-4-1-1,Simon Hooper,16,5,14.6,1.0,0,0,2025
+2024-09-14,15:00,Nottingham Forest,Matchweek 4,Sat,W,1.0,0.0,Liverpool,0.4,0.9,32.0,Ryan Yates,4-2-3-1,4-2-3-1,Michael Oliver,5,3,18.6,0.0,0,0,2025
+2024-09-22,14:00,Nottingham Forest,Matchweek 5,Sun,D,2.0,2.0,Brighton,1.4,1.0,30.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Robert Jones,3,2,17.4,0.0,1,1,2025
+2024-09-28,15:00,Nottingham Forest,Matchweek 6,Sat,L,0.0,1.0,Fulham,0.8,1.3,41.0,Ryan Yates,4-4-2,4-2-3-1,Joshua Smith,11,1,19.3,0.0,0,0,2025
+2024-08-17,15:00,Bournemouth,Matchweek 1,Sat,D,1.0,1.0,Nott'ham Forest,1.2,1.3,47.0,Neto,4-2-3-1,4-2-3-1,Michael Oliver,13,4,19.6,1.0,0,0,2025
+2024-08-25,14:00,Bournemouth,Matchweek 2,Sun,D,1.0,1.0,Newcastle Utd,2.2,1.6,39.0,Neto,4-2-3-1,4-3-3,David Coote,16,4,16.5,1.0,0,0,2025
+2024-08-31,15:00,Bournemouth,Matchweek 3,Sat,W,3.0,2.0,Everton,2.4,1.8,53.0,Lewis Cook,4-2-3-1,4-2-3-1,Stuart Attwell,17,7,14.9,0.0,0,0,2025
+2024-09-14,20:00,Bournemouth,Matchweek 4,Sat,L,0.0,1.0,Chelsea,1.7,0.8,34.0,Adam Smith,4-2-3-1,4-2-3-1,Anthony Taylor,18,6,22.4,0.0,0,1,2025
+2024-09-21,15:00,Bournemouth,Matchweek 5,Sat,L,0.0,3.0,Liverpool,1.1,2.0,42.0,Lewis Cook,4-2-3-1,4-2-3-1,Tony Harrington,19,6,18.7,1.0,0,0,2025
+2024-09-30,20:00,Bournemouth,Matchweek 6,Mon,W,3.0,1.0,Southampton,1.3,0.6,40.0,Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver,14,6,18.8,0.0,0,0,2025
+2024-08-18,14:00,Brentford,Matchweek 1,Sun,W,2.0,1.0,Crystal Palace,1.6,1.2,46.0,Christian Nørgaard,4-3-3,3-4-3,Samuel Barrott,9,5,12.5,0.0,0,0,2025
+2024-08-25,16:30,Brentford,Matchweek 2,Sun,L,0.0,2.0,Liverpool,0.5,2.5,38.0,Christian Nørgaard,4-4-2,4-2-3-1,Stuart Attwell,8,2,18.1,0.0,0,0,2025
+2024-08-31,15:00,Brentford,Matchweek 3,Sat,W,3.0,1.0,Southampton,2.8,1.5,37.0,Christian Nørgaard,4-3-3,3-5-2,Joshua Smith,20,7,14.5,0.0,0,0,2025
+2024-09-14,15:00,Brentford,Matchweek 4,Sat,L,1.0,2.0,Manchester City,1.0,2.1,46.0,Christian Nørgaard,5-3-2,4-2-3-1,Darren Bond,8,5,12.9,0.0,0,0,2025
+2024-09-21,15:00,Brentford,Matchweek 5,Sat,L,1.0,3.0,Tottenham,0.8,3.5,52.0,Vitaly Janelt,5-3-2,4-3-3,John Brooks,6,6,14.4,0.0,0,0,2025
+2024-09-28,15:00,Brentford,Matchweek 6,Sat,D,1.0,1.0,West Ham,0.4,1.0,57.0,Vitaly Janelt,4-4-2,4-1-4-1,Simon Hooper,8,3,20.7,1.0,0,0,2025
+2024-08-16,20:00,Manchester United,Matchweek 1,Fri,W,1.0,0.0,Fulham,2.4,0.4,55.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,14,5,17.6,0.0,0,0,2025
+2024-08-24,12:30,Manchester United,Matchweek 2,Sat,L,1.0,2.0,Brighton,1.4,2.1,52.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson,11,3,16.3,0.0,0,0,2025
+2024-09-01,16:00,Manchester United,Matchweek 3,Sun,L,0.0,3.0,Liverpool,1.4,1.8,53.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,8,3,15.6,0.0,0,0,2025
+2024-09-14,12:30,Manchester United,Matchweek 4,Sat,W,3.0,0.0,Southampton,2.6,1.1,56.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,20,10,17.4,0.0,0,0,2025
+2024-09-21,17:30,Manchester United,Matchweek 5,Sat,D,0.0,0.0,Crystal Palace,1.6,1.0,67.0,Bruno Fernandes,4-2-3-1,3-4-3,David Coote,15,6,13.9,0.0,0,0,2025
+2024-09-29,16:30,Manchester United,Matchweek 6,Sun,L,0.0,3.0,Tottenham,1.0,4.4,39.0,Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh,11,2,15.1,0.0,0,0,2025
+2024-08-17,17:30,West Ham United,Matchweek 1,Sat,L,1.0,2.0,Aston Villa,2.3,2.0,52.0,Jarrod Bowen,4-1-4-1,4-2-3-1,Tony Harrington,13,2,13.6,0.0,1,1,2025
+2024-08-24,15:00,West Ham United,Matchweek 2,Sat,W,2.0,0.0,Crystal Palace,1.4,1.3,42.0,Jarrod Bowen,4-1-4-1,3-4-3,Robert Jones,18,3,17.2,0.0,0,0,2025
+2024-08-31,17:30,West Ham United,Matchweek 3,Sat,L,1.0,3.0,Manchester City,0.7,3.0,33.0,Jarrod Bowen,4-2-3-1,3-2-4-1,Michael Oliver,10,2,16.9,0.0,0,0,2025
+2024-09-14,15:00,West Ham United,Matchweek 4,Sat,D,1.0,1.0,Fulham,0.8,1.5,46.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Tim Robinson,11,3,18.0,0.0,0,0,2025
+2024-09-21,12:30,West Ham United,Matchweek 5,Sat,L,0.0,3.0,Chelsea,0.9,2.2,53.0,Jarrod Bowen,3-4-3,4-2-3-1,Samuel Barrott,15,7,18.0,1.0,0,0,2025
+2024-09-28,15:00,West Ham United,Matchweek 6,Sat,D,1.0,1.0,Brentford,1.0,0.4,43.0,Jarrod Bowen,4-1-4-1,4-4-2,Simon Hooper,19,3,18.7,0.0,0,0,2025
+2024-08-17,12:30,Ipswich Town,Matchweek 1,Sat,L,0.0,2.0,Liverpool,0.5,2.6,38.0,Sam Morsy,4-2-3-1,4-2-3-1,Tim Robinson,7,2,16.0,0.0,0,0,2025
+2024-08-24,15:00,Ipswich Town,Matchweek 2,Sat,L,1.0,4.0,Manchester City,0.3,3.3,25.0,Sam Morsy,5-4-1,3-2-4-1,Samuel Allison,1,1,21.1,0.0,0,0,2025
+2024-08-31,15:00,Ipswich Town,Matchweek 3,Sat,D,1.0,1.0,Fulham,0.4,0.9,48.0,Sam Morsy,4-2-3-1,4-3-3,Lewis Smith,11,4,18.0,1.0,0,0,2025
+2024-09-14,15:00,Ipswich Town,Matchweek 4,Sat,D,0.0,0.0,Brighton,0.3,1.6,32.0,Sam Morsy,4-2-3-1,4-4-2,Samuel Barrott,6,1,16.6,0.0,0,0,2025
+2024-09-21,15:00,Ipswich Town,Matchweek 5,Sat,D,1.0,1.0,Southampton,1.6,2.4,47.0,Sam Morsy,4-2-3-1,4-2-3-1,Samuel Allison,13,6,14.1,0.0,0,0,2025
+2024-09-29,14:00,Ipswich Town,Matchweek 6,Sun,D,2.0,2.0,Aston Villa,1.2,0.8,44.0,Sam Morsy,4-2-3-1,4-2-3-1,Stuart Attwell,15,5,18.4,0.0,0,0,2025
+2024-08-17,15:00,Everton,Matchweek 1,Sat,L,0.0,3.0,Brighton,0.5,1.4,40.0,James Tarkowski,4-2-3-1,4-2-3-1,Simon Hooper,9,1,18.4,0.0,0,0,2025
+2024-08-24,15:00,Everton,Matchweek 2,Sat,L,0.0,4.0,Tottenham,1.0,2.4,30.0,James Tarkowski,4-2-3-1,4-3-3,Anthony Taylor,10,1,10.0,0.0,0,0,2025
+2024-08-31,15:00,Everton,Matchweek 3,Sat,L,2.0,3.0,Bournemouth,1.8,2.4,47.0,Séamus Coleman,4-2-3-1,4-2-3-1,Stuart Attwell,18,8,15.7,0.0,0,0,2025
+2024-09-14,17:30,Everton,Matchweek 4,Sat,L,2.0,3.0,Aston Villa,0.9,2.1,28.0,James Tarkowski,4-2-3-1,4-2-3-1,Craig Pawson,6,2,12.6,0.0,0,0,2025
+2024-09-21,15:00,Everton,Matchweek 5,Sat,D,1.0,1.0,Leicester City,1.1,0.7,42.0,James Tarkowski,4-2-3-1,4-2-3-1,Darren England,17,5,17.7,1.0,0,0,2025
+2024-09-28,15:00,Everton,Matchweek 6,Sat,W,2.0,1.0,Crystal Palace,0.9,0.9,41.0,James Tarkowski,4-2-3-1,3-4-3,Andy Madley,8,2,15.3,0.0,0,0,2025
+2024-08-19,20:00,Leicester City,Matchweek 1,Mon,D,1.0,1.0,Tottenham,1.0,1.2,30.0,Jamie Vardy,4-2-3-1,4-3-3,Chris Kavanagh,7,3,16.4,0.0,0,0,2025
+2024-08-24,15:00,Leicester City,Matchweek 2,Sat,L,1.0,2.0,Fulham,0.6,1.8,46.0,Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,10,4,22.5,1.0,0,0,2025
+2024-08-31,15:00,Leicester City,Matchweek 3,Sat,L,1.0,2.0,Aston Villa,0.4,1.4,57.0,Jamie Vardy,4-2-3-1,4-4-2,David Coote,9,3,20.6,0.0,0,0,2025
+2024-09-14,15:00,Leicester City,Matchweek 4,Sat,D,2.0,2.0,Crystal Palace,1.2,2.5,34.0,Jamie Vardy,4-2-3-1,3-4-3,Tony Harrington,9,4,19.2,0.0,0,0,2025
+2024-09-21,15:00,Leicester City,Matchweek 5,Sat,D,1.0,1.0,Everton,0.7,1.1,58.0,Jamie Vardy,4-2-3-1,4-2-3-1,Darren England,12,2,16.0,0.0,0,0,2025
+2024-09-28,15:00,Leicester City,Matchweek 6,Sat,L,2.0,4.0,Arsenal,0.3,4.4,26.0,Jamie Vardy,4-2-3-1,4-4-2,Samuel Barrott,5,3,14.5,0.0,0,0,2025
+2024-08-18,14:00,Crystal Palace,Matchweek 1,Sun,L,1.0,2.0,Brentford,1.2,1.6,54.0,Marc Guéhi,3-4-3,4-3-3,Samuel Barrott,14,6,19.2,1.0,0,0,2025
+2024-08-24,15:00,Crystal Palace,Matchweek 2,Sat,L,0.0,2.0,West Ham,1.3,1.4,58.0,Marc Guéhi,3-4-3,4-1-4-1,Robert Jones,14,2,19.5,0.0,0,0,2025
+2024-09-01,13:30,Crystal Palace,Matchweek 3,Sun,D,1.0,1.0,Chelsea,0.5,2.4,38.0,Marc Guéhi,3-4-3,4-2-3-1,Jarred Gillett,9,3,20.6,1.0,0,0,2025
+2024-09-14,15:00,Crystal Palace,Matchweek 4,Sat,D,2.0,2.0,Leicester City,2.5,1.2,66.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,19,3,15.4,1.0,1,1,2025
+2024-09-21,17:30,Crystal Palace,Matchweek 5,Sat,D,0.0,0.0,Manchester Utd,1.0,1.6,33.0,Marc Guéhi,3-4-3,4-2-3-1,David Coote,9,4,14.6,0.0,0,0,2025
+2024-09-28,15:00,Crystal Palace,Matchweek 6,Sat,L,1.0,2.0,Everton,0.9,0.9,59.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,17,4,17.3,1.0,0,0,2025
+2024-08-17,15:00,Southampton,Matchweek 1,Sat,L,0.0,1.0,Newcastle Utd,1.8,0.3,77.0,Jack Stephens,3-5-2,4-3-3,Craig Pawson,19,3,17.0,1.0,0,0,2025
+2024-08-24,15:00,Southampton,Matchweek 2,Sat,L,0.0,1.0,Nott'ham Forest,0.1,2.2,64.0,Jack Stephens,3-5-2,4-2-3-1,Samuel Barrott,5,1,19.7,0.0,0,0,2025
+2024-08-31,15:00,Southampton,Matchweek 3,Sat,L,1.0,3.0,Brentford,1.5,2.8,63.0,Jack Stephens,3-5-2,4-3-3,Joshua Smith,18,6,18.1,1.0,0,0,2025
+2024-09-14,12:30,Southampton,Matchweek 4,Sat,L,0.0,3.0,Manchester Utd,1.1,2.6,44.0,Jack Stephens,4-2-3-1,4-2-3-1,Stuart Attwell,5,2,17.4,0.0,0,1,2025
+2024-09-21,15:00,Southampton,Matchweek 5,Sat,D,1.0,1.0,Ipswich Town,2.4,1.6,53.0,Flynn Downes,4-2-3-1,4-2-3-1,Samuel Allison,11,3,13.7,0.0,0,0,2025
+2024-09-30,20:00,Southampton,Matchweek 6,Mon,L,1.0,3.0,Bournemouth,0.6,1.3,60.0,Flynn Downes,4-2-3-1,4-2-3-1,Michael Oliver,9,3,18.4,0.0,0,0,2025
+2024-08-17,15:00,Wolverhampton Wanderers,Matchweek 1,Sat,L,0.0,2.0,Arsenal,0.5,1.2,47.0,Mario Lemina,4-2-3-1,4-3-3,Jarred Gillett,9,3,19.3,1.0,0,0,2025
+2024-08-25,14:00,Wolverhampton Wanderers,Matchweek 2,Sun,L,2.0,6.0,Chelsea,1.9,1.6,40.0,Mario Lemina,4-2-3-1,4-2-3-1,Darren England,12,4,19.1,1.0,0,0,2025
+2024-08-31,15:00,Wolverhampton Wanderers,Matchweek 3,Sat,D,1.0,1.0,Nott'ham Forest,0.7,1.0,48.0,Mario Lemina,4-4-1-1,4-2-3-1,Simon Hooper,11,2,20.7,0.0,0,0,2025
+2024-09-15,16:30,Wolverhampton Wanderers,Matchweek 4,Sun,L,1.0,2.0,Newcastle Utd,1.2,1.5,49.0,Mario Lemina,4-4-1-1,4-3-3,Chris Kavanagh,12,5,15.2,0.0,0,0,2025
+2024-09-21,15:00,Wolverhampton Wanderers,Matchweek 5,Sat,L,1.0,3.0,Aston Villa,0.5,1.7,47.0,Mario Lemina,4-1-4-1,4-2-3-1,Tim Robinson,10,4,14.9,0.0,0,0,2025
+2024-09-28,17:30,Wolverhampton Wanderers,Matchweek 6,Sat,L,1.0,2.0,Liverpool,0.6,2.5,45.0,Mario Lemina,4-1-4-1,4-2-3-1,Anthony Taylor,8,3,22.9,0.0,0,0,2025
+2024-08-17,12:30,Liverpool,Matchweek 1,Sat,W,2.0,0.0,Ipswich Town,2.6,0.5,62.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tim Robinson,18,5,14.8,0.0,0,0,2024
+2024-08-25,16:30,Liverpool,Matchweek 2,Sun,W,2.0,0.0,Brentford,2.5,0.5,62.0,Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,19,8,13.6,1.0,0,0,2024
+2024-09-01,16:00,Liverpool,Matchweek 3,Sun,W,3.0,0.0,Manchester Utd,1.8,1.4,47.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,11,3,13.4,0.0,0,0,2024
+2024-09-14,15:00,Liverpool,Matchweek 4,Sat,L,0.0,1.0,Nott'ham Forest,0.9,0.4,68.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,14,5,14.9,0.0,0,0,2024
+2024-09-21,15:00,Liverpool,Matchweek 5,Sat,W,3.0,0.0,Bournemouth,2.0,1.1,58.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tony Harrington,19,12,16.6,0.0,0,0,2024
+2024-09-28,17:30,Liverpool,Matchweek 6,Sat,W,2.0,1.0,Wolves,2.5,0.6,55.0,Virgil van Dijk,4-2-3-1,4-1-4-1,Anthony Taylor,9,5,18.0,1.0,1,1,2024
+2024-08-18,16:30,Manchester City,Matchweek 1,Sun,W,2.0,0.0,Chelsea,0.8,1.0,52.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Anthony Taylor,11,5,19.1,0.0,0,0,2024
+2024-08-24,15:00,Manchester City,Matchweek 2,Sat,W,4.0,1.0,Ipswich Town,3.3,0.3,75.0,Kevin De Bruyne,3-2-4-1,5-4-1,Samuel Allison,13,4,17.8,1.0,1,1,2024
+2024-08-31,17:30,Manchester City,Matchweek 3,Sat,W,3.0,1.0,West Ham,3.0,0.7,67.0,Kevin De Bruyne,3-2-4-1,4-2-3-1,Michael Oliver,23,8,15.0,1.0,0,0,2024
+2024-09-14,15:00,Manchester City,Matchweek 4,Sat,W,2.0,1.0,Brentford,2.1,1.0,54.0,Kyle Walker,4-2-3-1,5-3-2,Darren Bond,18,7,17.2,0.0,0,0,2024
+2024-09-22,16:30,Manchester City,Matchweek 5,Sun,D,2.0,2.0,Arsenal,2.1,0.7,77.0,Kyle Walker,4-3-3,4-4-2,Michael Oliver,33,11,20.2,1.0,0,0,2024
+2024-09-28,12:30,Manchester City,Matchweek 6,Sat,D,1.0,1.0,Newcastle Utd,0.9,1.6,62.0,Kyle Walker,4-2-3-1,4-3-3,Jarred Gillett,16,6,17.6,0.0,0,0,2024
+2024-08-17,15:00,Arsenal,Matchweek 1,Sat,W,2.0,0.0,Wolves,1.2,0.5,53.0,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,18,6,17.3,0.0,0,0,2024
+2024-08-24,17:30,Arsenal,Matchweek 2,Sat,W,2.0,0.0,Aston Villa,0.9,1.2,60.0,Martin Ødegaard,4-3-3,4-4-2,Michael Oliver,9,4,18.8,0.0,0,0,2024
+2024-08-31,12:30,Arsenal,Matchweek 3,Sat,D,1.0,1.0,Brighton,2.1,1.7,36.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,11,7,12.9,0.0,0,0,2024
+2024-09-15,14:00,Arsenal,Matchweek 4,Sun,W,1.0,0.0,Tottenham,0.7,0.7,37.0,Jorginho,4-4-2,4-3-3,Jarred Gillett,7,4,12.1,0.0,0,0,2024
+2024-09-22,16:30,Arsenal,Matchweek 5,Sun,D,2.0,2.0,Manchester City,0.7,2.1,23.0,Bukayo Saka,4-4-2,4-3-3,Michael Oliver,5,3,11.3,0.0,0,0,2024
+2024-09-28,15:00,Arsenal,Matchweek 6,Sat,W,4.0,2.0,Leicester City,4.4,0.3,74.0,Bukayo Saka,4-4-2,4-2-3-1,Samuel Barrott,35,16,14.1,0.0,0,0,2024
+2024-08-18,16:30,Chelsea,Matchweek 1,Sun,L,0.0,2.0,Manchester City,1.0,0.8,48.0,Enzo Fernández,4-2-3-1,3-2-4-1,Anthony Taylor,10,3,17.1,0.0,0,0,2024
+2024-08-25,14:00,Chelsea,Matchweek 2,Sun,W,6.0,2.0,Wolves,1.6,1.9,60.0,Enzo Fernández,4-2-3-1,4-2-3-1,Darren England,14,8,15.4,1.0,0,0,2024
+2024-09-01,13:30,Chelsea,Matchweek 3,Sun,D,1.0,1.0,Crystal Palace,2.4,0.5,62.0,Enzo Fernández,4-2-3-1,3-4-3,Jarred Gillett,13,7,15.9,1.0,0,0,2024
+2024-09-14,20:00,Chelsea,Matchweek 4,Sat,W,1.0,0.0,Bournemouth,0.8,1.7,66.0,Moisés Caicedo,4-2-3-1,4-2-3-1,Anthony Taylor,10,3,18.2,0.0,0,0,2024
+2024-09-21,12:30,Chelsea,Matchweek 5,Sat,W,3.0,0.0,West Ham,2.2,0.9,47.0,Enzo Fernández,4-2-3-1,3-4-3,Samuel Barrott,12,5,15.0,0.0,0,0,2024
+2024-09-28,15:00,Chelsea,Matchweek 6,Sat,W,4.0,2.0,Brighton,4.2,1.1,41.0,Enzo Fernández,4-2-3-1,4-3-3,Peter Bankes,14,5,15.7,1.0,1,1,2024
+2024-08-17,17:30,Aston Villa,Matchweek 1,Sat,W,2.0,1.0,West Ham,2.0,2.3,48.0,John McGinn,4-2-3-1,4-1-4-1,Tony Harrington,15,3,15.2,0.0,0,0,2024
+2024-08-24,17:30,Aston Villa,Matchweek 2,Sat,L,0.0,2.0,Arsenal,1.2,0.9,40.0,John McGinn,4-4-2,4-3-3,Michael Oliver,11,3,16.0,0.0,0,0,2024
+2024-08-31,15:00,Aston Villa,Matchweek 3,Sat,W,2.0,1.0,Leicester City,1.4,0.4,43.0,John McGinn,4-4-2,4-2-3-1,David Coote,10,5,17.9,0.0,0,0,2024
+2024-09-14,17:30,Aston Villa,Matchweek 4,Sat,W,3.0,2.0,Everton,2.1,0.9,72.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,17,7,14.0,0.0,0,0,2024
+2024-09-21,15:00,Aston Villa,Matchweek 5,Sat,W,3.0,1.0,Wolves,1.7,0.5,53.0,John McGinn,4-2-3-1,4-1-4-1,Tim Robinson,9,3,13.7,1.0,0,0,2024
+2024-09-29,14:00,Aston Villa,Matchweek 6,Sun,D,2.0,2.0,Ipswich Town,0.8,1.2,56.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Stuart Attwell,7,3,19.0,1.0,0,0,2024
+2024-08-16,20:00,Fulham,Matchweek 1,Fri,L,0.0,1.0,Manchester Utd,0.4,2.4,45.0,Bernd Leno,4-2-3-1,4-2-3-1,Robert Jones,10,2,16.9,0.0,0,0,2024
+2024-08-24,15:00,Fulham,Matchweek 2,Sat,W,2.0,1.0,Leicester City,1.8,0.6,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Darren Bond,18,6,15.8,1.0,0,0,2024
+2024-08-31,15:00,Fulham,Matchweek 3,Sat,D,1.0,1.0,Ipswich Town,0.9,0.4,52.0,Bernd Leno,4-3-3,4-2-3-1,Lewis Smith,9,4,13.1,0.0,0,0,2024
+2024-09-14,15:00,Fulham,Matchweek 4,Sat,D,1.0,1.0,West Ham,1.5,0.8,54.0,Bernd Leno,4-2-3-1,4-2-3-1,Tim Robinson,21,5,16.4,2.0,0,0,2024
+2024-09-21,15:00,Fulham,Matchweek 5,Sat,W,3.0,1.0,Newcastle Utd,2.2,1.5,39.0,Bernd Leno,4-2-3-1,4-3-3,Peter Bankes,22,11,15.4,0.0,0,0,2024
+2024-09-28,15:00,Fulham,Matchweek 6,Sat,W,1.0,0.0,Nott'ham Forest,1.3,0.8,59.0,Bernd Leno,4-2-3-1,4-4-2,Joshua Smith,13,1,20.2,0.0,1,1,2024
+2024-08-17,15:00,Newcastle United,Matchweek 1,Sat,W,1.0,0.0,Southampton,0.3,1.8,23.0,Bruno Guimarães,4-3-3,3-5-2,Craig Pawson,3,1,13.2,0.0,0,0,2024
+2024-08-25,14:00,Newcastle United,Matchweek 2,Sun,D,1.0,1.0,Bournemouth,1.6,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,David Coote,14,5,12.6,0.0,0,0,2024
+2024-09-01,13:30,Newcastle United,Matchweek 3,Sun,W,2.0,1.0,Tottenham,1.8,1.2,35.0,Bruno Guimarães,4-3-3,4-2-3-1,Robert Jones,9,3,14.0,0.0,0,0,2024
+2024-09-15,16:30,Newcastle United,Matchweek 4,Sun,W,2.0,1.0,Wolves,1.5,1.2,51.0,Bruno Guimarães,4-3-3,4-4-1-1,Chris Kavanagh,14,6,17.9,0.0,0,0,2024
+2024-09-21,15:00,Newcastle United,Matchweek 5,Sat,L,1.0,3.0,Fulham,1.5,2.2,61.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,16,5,16.9,1.0,0,0,2024
+2024-09-28,12:30,Newcastle United,Matchweek 6,Sat,D,1.0,1.0,Manchester City,1.6,0.9,38.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,10,3,15.1,0.0,1,1,2024
+2024-08-19,20:00,Tottenham Hotspur,Matchweek 1,Mon,D,1.0,1.0,Leicester City,1.2,1.0,70.0,Son Heung-min,4-3-3,4-2-3-1,Chris Kavanagh,15,6,13.7,0.0,0,0,2024
+2024-08-24,15:00,Tottenham Hotspur,Matchweek 2,Sat,W,4.0,0.0,Everton,2.4,1.0,70.0,Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,13,7,14.1,1.0,0,0,2024
+2024-09-01,13:30,Tottenham Hotspur,Matchweek 3,Sun,L,1.0,2.0,Newcastle Utd,1.2,1.8,65.0,Son Heung-min,4-2-3-1,4-3-3,Robert Jones,20,6,19.9,1.0,0,0,2024
+2024-09-15,14:00,Tottenham Hotspur,Matchweek 4,Sun,L,0.0,1.0,Arsenal,0.7,0.7,63.0,Son Heung-min,4-3-3,4-4-2,Jarred Gillett,15,5,18.1,0.0,0,0,2024
+2024-09-21,15:00,Tottenham Hotspur,Matchweek 5,Sat,W,3.0,1.0,Brentford,3.5,0.8,48.0,Son Heung-min,4-3-3,5-3-2,John Brooks,23,9,14.4,0.0,0,0,2024
+2024-09-29,16:30,Tottenham Hotspur,Matchweek 6,Sun,W,3.0,0.0,Manchester Utd,4.4,1.0,61.0,Cristian Romero,4-3-3,4-2-3-1,Chris Kavanagh,24,10,14.6,0.0,0,0,2024
+2024-08-17,15:00,Brighton and Hove Albion,Matchweek 1,Sat,W,3.0,0.0,Everton,1.4,0.5,60.0,Lewis Dunk,4-2-3-1,4-2-3-1,Simon Hooper,10,5,13.8,0.0,0,0,2024
+2024-08-24,12:30,Brighton and Hove Albion,Matchweek 2,Sat,W,2.0,1.0,Manchester Utd,2.1,1.4,48.0,Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson,14,4,14.2,1.0,0,0,2024
+2024-08-31,12:30,Brighton and Hove Albion,Matchweek 3,Sat,D,1.0,1.0,Arsenal,1.7,2.1,64.0,Lewis Dunk,4-2-3-1,4-3-3,Chris Kavanagh,22,4,19.3,0.0,0,0,2024
+2024-09-14,15:00,Brighton and Hove Albion,Matchweek 4,Sat,D,0.0,0.0,Ipswich Town,1.6,0.3,68.0,Lewis Dunk,4-4-2,4-2-3-1,Samuel Barrott,21,6,18.5,2.0,0,0,2024
+2024-09-22,14:00,Brighton and Hove Albion,Matchweek 5,Sun,D,2.0,2.0,Nott'ham Forest,1.0,1.4,70.0,Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones,14,3,17.4,1.0,0,0,2024
+2024-09-28,15:00,Brighton and Hove Albion,Matchweek 6,Sat,L,2.0,4.0,Chelsea,1.1,4.2,59.0,Lewis Dunk,4-3-3,4-2-3-1,Peter Bankes,15,5,20.1,2.0,0,0,2024
+2024-08-17,15:00,Nottingham Forest,Matchweek 1,Sat,D,1.0,1.0,Bournemouth,1.3,1.2,53.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Oliver,14,8,19.2,0.0,0,0,2024
+2024-08-24,15:00,Nottingham Forest,Matchweek 2,Sat,W,1.0,0.0,Southampton,2.2,0.1,36.0,Morgan Gibbs-White,4-2-3-1,3-5-2,Samuel Barrott,23,8,17.2,0.0,0,0,2024
+2024-08-31,15:00,Nottingham Forest,Matchweek 3,Sat,D,1.0,1.0,Wolves,1.0,0.7,52.0,Morgan Gibbs-White,4-2-3-1,4-4-1-1,Simon Hooper,16,5,14.6,1.0,0,0,2024
+2024-09-14,15:00,Nottingham Forest,Matchweek 4,Sat,W,1.0,0.0,Liverpool,0.4,0.9,32.0,Ryan Yates,4-2-3-1,4-2-3-1,Michael Oliver,5,3,18.6,0.0,0,0,2024
+2024-09-22,14:00,Nottingham Forest,Matchweek 5,Sun,D,2.0,2.0,Brighton,1.4,1.0,30.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Robert Jones,3,2,17.4,0.0,1,1,2024
+2024-09-28,15:00,Nottingham Forest,Matchweek 6,Sat,L,0.0,1.0,Fulham,0.8,1.3,41.0,Ryan Yates,4-4-2,4-2-3-1,Joshua Smith,11,1,19.3,0.0,0,0,2024
+2024-08-17,15:00,Bournemouth,Matchweek 1,Sat,D,1.0,1.0,Nott'ham Forest,1.2,1.3,47.0,Neto,4-2-3-1,4-2-3-1,Michael Oliver,13,4,19.6,1.0,0,0,2024
+2024-08-25,14:00,Bournemouth,Matchweek 2,Sun,D,1.0,1.0,Newcastle Utd,2.2,1.6,39.0,Neto,4-2-3-1,4-3-3,David Coote,16,4,16.5,1.0,0,0,2024
+2024-08-31,15:00,Bournemouth,Matchweek 3,Sat,W,3.0,2.0,Everton,2.4,1.8,53.0,Lewis Cook,4-2-3-1,4-2-3-1,Stuart Attwell,17,7,14.9,0.0,0,0,2024
+2024-09-14,20:00,Bournemouth,Matchweek 4,Sat,L,0.0,1.0,Chelsea,1.7,0.8,34.0,Adam Smith,4-2-3-1,4-2-3-1,Anthony Taylor,18,6,22.4,0.0,0,1,2024
+2024-09-21,15:00,Bournemouth,Matchweek 5,Sat,L,0.0,3.0,Liverpool,1.1,2.0,42.0,Lewis Cook,4-2-3-1,4-2-3-1,Tony Harrington,19,6,18.7,1.0,0,0,2024
+2024-09-30,20:00,Bournemouth,Matchweek 6,Mon,W,3.0,1.0,Southampton,1.3,0.6,40.0,Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver,14,6,18.8,0.0,0,0,2024
+2024-08-18,14:00,Brentford,Matchweek 1,Sun,W,2.0,1.0,Crystal Palace,1.6,1.2,46.0,Christian Nørgaard,4-3-3,3-4-3,Samuel Barrott,9,5,12.5,0.0,0,0,2024
+2024-08-25,16:30,Brentford,Matchweek 2,Sun,L,0.0,2.0,Liverpool,0.5,2.5,38.0,Christian Nørgaard,4-4-2,4-2-3-1,Stuart Attwell,8,2,18.1,0.0,0,0,2024
+2024-08-31,15:00,Brentford,Matchweek 3,Sat,W,3.0,1.0,Southampton,2.8,1.5,37.0,Christian Nørgaard,4-3-3,3-5-2,Joshua Smith,20,7,14.5,0.0,0,0,2024
+2024-09-14,15:00,Brentford,Matchweek 4,Sat,L,1.0,2.0,Manchester City,1.0,2.1,46.0,Christian Nørgaard,5-3-2,4-2-3-1,Darren Bond,8,5,12.9,0.0,0,0,2024
+2024-09-21,15:00,Brentford,Matchweek 5,Sat,L,1.0,3.0,Tottenham,0.8,3.5,52.0,Vitaly Janelt,5-3-2,4-3-3,John Brooks,6,6,14.4,0.0,0,0,2024
+2024-09-28,15:00,Brentford,Matchweek 6,Sat,D,1.0,1.0,West Ham,0.4,1.0,57.0,Vitaly Janelt,4-4-2,4-1-4-1,Simon Hooper,8,3,20.7,1.0,0,0,2024
+2024-08-16,20:00,Manchester United,Matchweek 1,Fri,W,1.0,0.0,Fulham,2.4,0.4,55.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,14,5,17.6,0.0,0,0,2024
+2024-08-24,12:30,Manchester United,Matchweek 2,Sat,L,1.0,2.0,Brighton,1.4,2.1,52.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson,11,3,16.3,0.0,0,0,2024
+2024-09-01,16:00,Manchester United,Matchweek 3,Sun,L,0.0,3.0,Liverpool,1.4,1.8,53.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,8,3,15.6,0.0,0,0,2024
+2024-09-14,12:30,Manchester United,Matchweek 4,Sat,W,3.0,0.0,Southampton,2.6,1.1,56.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,20,10,17.4,0.0,0,0,2024
+2024-09-21,17:30,Manchester United,Matchweek 5,Sat,D,0.0,0.0,Crystal Palace,1.6,1.0,67.0,Bruno Fernandes,4-2-3-1,3-4-3,David Coote,15,6,13.9,0.0,0,0,2024
+2024-09-29,16:30,Manchester United,Matchweek 6,Sun,L,0.0,3.0,Tottenham,1.0,4.4,39.0,Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh,11,2,15.1,0.0,0,0,2024
+2024-08-17,17:30,West Ham United,Matchweek 1,Sat,L,1.0,2.0,Aston Villa,2.3,2.0,52.0,Jarrod Bowen,4-1-4-1,4-2-3-1,Tony Harrington,13,2,13.6,0.0,1,1,2024
+2024-08-24,15:00,West Ham United,Matchweek 2,Sat,W,2.0,0.0,Crystal Palace,1.4,1.3,42.0,Jarrod Bowen,4-1-4-1,3-4-3,Robert Jones,18,3,17.2,0.0,0,0,2024
+2024-08-31,17:30,West Ham United,Matchweek 3,Sat,L,1.0,3.0,Manchester City,0.7,3.0,33.0,Jarrod Bowen,4-2-3-1,3-2-4-1,Michael Oliver,10,2,16.9,0.0,0,0,2024
+2024-09-14,15:00,West Ham United,Matchweek 4,Sat,D,1.0,1.0,Fulham,0.8,1.5,46.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Tim Robinson,11,3,18.0,0.0,0,0,2024
+2024-09-21,12:30,West Ham United,Matchweek 5,Sat,L,0.0,3.0,Chelsea,0.9,2.2,53.0,Jarrod Bowen,3-4-3,4-2-3-1,Samuel Barrott,15,7,18.0,1.0,0,0,2024
+2024-09-28,15:00,West Ham United,Matchweek 6,Sat,D,1.0,1.0,Brentford,1.0,0.4,43.0,Jarrod Bowen,4-1-4-1,4-4-2,Simon Hooper,19,3,18.7,0.0,0,0,2024
+2024-08-17,12:30,Ipswich Town,Matchweek 1,Sat,L,0.0,2.0,Liverpool,0.5,2.6,38.0,Sam Morsy,4-2-3-1,4-2-3-1,Tim Robinson,7,2,16.0,0.0,0,0,2024
+2024-08-24,15:00,Ipswich Town,Matchweek 2,Sat,L,1.0,4.0,Manchester City,0.3,3.3,25.0,Sam Morsy,5-4-1,3-2-4-1,Samuel Allison,1,1,21.1,0.0,0,0,2024
+2024-08-31,15:00,Ipswich Town,Matchweek 3,Sat,D,1.0,1.0,Fulham,0.4,0.9,48.0,Sam Morsy,4-2-3-1,4-3-3,Lewis Smith,11,4,18.0,1.0,0,0,2024
+2024-09-14,15:00,Ipswich Town,Matchweek 4,Sat,D,0.0,0.0,Brighton,0.3,1.6,32.0,Sam Morsy,4-2-3-1,4-4-2,Samuel Barrott,6,1,16.6,0.0,0,0,2024
+2024-09-21,15:00,Ipswich Town,Matchweek 5,Sat,D,1.0,1.0,Southampton,1.6,2.4,47.0,Sam Morsy,4-2-3-1,4-2-3-1,Samuel Allison,13,6,14.1,0.0,0,0,2024
+2024-09-29,14:00,Ipswich Town,Matchweek 6,Sun,D,2.0,2.0,Aston Villa,1.2,0.8,44.0,Sam Morsy,4-2-3-1,4-2-3-1,Stuart Attwell,15,5,18.4,0.0,0,0,2024
+2024-08-17,15:00,Everton,Matchweek 1,Sat,L,0.0,3.0,Brighton,0.5,1.4,40.0,James Tarkowski,4-2-3-1,4-2-3-1,Simon Hooper,9,1,18.4,0.0,0,0,2024
+2024-08-24,15:00,Everton,Matchweek 2,Sat,L,0.0,4.0,Tottenham,1.0,2.4,30.0,James Tarkowski,4-2-3-1,4-3-3,Anthony Taylor,10,1,10.0,0.0,0,0,2024
+2024-08-31,15:00,Everton,Matchweek 3,Sat,L,2.0,3.0,Bournemouth,1.8,2.4,47.0,Séamus Coleman,4-2-3-1,4-2-3-1,Stuart Attwell,18,8,15.7,0.0,0,0,2024
+2024-09-14,17:30,Everton,Matchweek 4,Sat,L,2.0,3.0,Aston Villa,0.9,2.1,28.0,James Tarkowski,4-2-3-1,4-2-3-1,Craig Pawson,6,2,12.6,0.0,0,0,2024
+2024-09-21,15:00,Everton,Matchweek 5,Sat,D,1.0,1.0,Leicester City,1.1,0.7,42.0,James Tarkowski,4-2-3-1,4-2-3-1,Darren England,17,5,17.7,1.0,0,0,2024
+2024-09-28,15:00,Everton,Matchweek 6,Sat,W,2.0,1.0,Crystal Palace,0.9,0.9,41.0,James Tarkowski,4-2-3-1,3-4-3,Andy Madley,8,2,15.3,0.0,0,0,2024
+2024-08-19,20:00,Leicester City,Matchweek 1,Mon,D,1.0,1.0,Tottenham,1.0,1.2,30.0,Jamie Vardy,4-2-3-1,4-3-3,Chris Kavanagh,7,3,16.4,0.0,0,0,2024
+2024-08-24,15:00,Leicester City,Matchweek 2,Sat,L,1.0,2.0,Fulham,0.6,1.8,46.0,Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,10,4,22.5,1.0,0,0,2024
+2024-08-31,15:00,Leicester City,Matchweek 3,Sat,L,1.0,2.0,Aston Villa,0.4,1.4,57.0,Jamie Vardy,4-2-3-1,4-4-2,David Coote,9,3,20.6,0.0,0,0,2024
+2024-09-14,15:00,Leicester City,Matchweek 4,Sat,D,2.0,2.0,Crystal Palace,1.2,2.5,34.0,Jamie Vardy,4-2-3-1,3-4-3,Tony Harrington,9,4,19.2,0.0,0,0,2024
+2024-09-21,15:00,Leicester City,Matchweek 5,Sat,D,1.0,1.0,Everton,0.7,1.1,58.0,Jamie Vardy,4-2-3-1,4-2-3-1,Darren England,12,2,16.0,0.0,0,0,2024
+2024-09-28,15:00,Leicester City,Matchweek 6,Sat,L,2.0,4.0,Arsenal,0.3,4.4,26.0,Jamie Vardy,4-2-3-1,4-4-2,Samuel Barrott,5,3,14.5,0.0,0,0,2024
+2024-08-18,14:00,Crystal Palace,Matchweek 1,Sun,L,1.0,2.0,Brentford,1.2,1.6,54.0,Marc Guéhi,3-4-3,4-3-3,Samuel Barrott,14,6,19.2,1.0,0,0,2024
+2024-08-24,15:00,Crystal Palace,Matchweek 2,Sat,L,0.0,2.0,West Ham,1.3,1.4,58.0,Marc Guéhi,3-4-3,4-1-4-1,Robert Jones,14,2,19.5,0.0,0,0,2024
+2024-09-01,13:30,Crystal Palace,Matchweek 3,Sun,D,1.0,1.0,Chelsea,0.5,2.4,38.0,Marc Guéhi,3-4-3,4-2-3-1,Jarred Gillett,9,3,20.6,1.0,0,0,2024
+2024-09-14,15:00,Crystal Palace,Matchweek 4,Sat,D,2.0,2.0,Leicester City,2.5,1.2,66.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,19,3,15.4,1.0,1,1,2024
+2024-09-21,17:30,Crystal Palace,Matchweek 5,Sat,D,0.0,0.0,Manchester Utd,1.0,1.6,33.0,Marc Guéhi,3-4-3,4-2-3-1,David Coote,9,4,14.6,0.0,0,0,2024
+2024-09-28,15:00,Crystal Palace,Matchweek 6,Sat,L,1.0,2.0,Everton,0.9,0.9,59.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,17,4,17.3,1.0,0,0,2024
+2024-08-17,15:00,Southampton,Matchweek 1,Sat,L,0.0,1.0,Newcastle Utd,1.8,0.3,77.0,Jack Stephens,3-5-2,4-3-3,Craig Pawson,19,3,17.0,1.0,0,0,2024
+2024-08-24,15:00,Southampton,Matchweek 2,Sat,L,0.0,1.0,Nott'ham Forest,0.1,2.2,64.0,Jack Stephens,3-5-2,4-2-3-1,Samuel Barrott,5,1,19.7,0.0,0,0,2024
+2024-08-31,15:00,Southampton,Matchweek 3,Sat,L,1.0,3.0,Brentford,1.5,2.8,63.0,Jack Stephens,3-5-2,4-3-3,Joshua Smith,18,6,18.1,1.0,0,0,2024
+2024-09-14,12:30,Southampton,Matchweek 4,Sat,L,0.0,3.0,Manchester Utd,1.1,2.6,44.0,Jack Stephens,4-2-3-1,4-2-3-1,Stuart Attwell,5,2,17.4,0.0,0,1,2024
+2024-09-21,15:00,Southampton,Matchweek 5,Sat,D,1.0,1.0,Ipswich Town,2.4,1.6,53.0,Flynn Downes,4-2-3-1,4-2-3-1,Samuel Allison,11,3,13.7,0.0,0,0,2024
+2024-09-30,20:00,Southampton,Matchweek 6,Mon,L,1.0,3.0,Bournemouth,0.6,1.3,60.0,Flynn Downes,4-2-3-1,4-2-3-1,Michael Oliver,9,3,18.4,0.0,0,0,2024
+2024-08-17,15:00,Wolverhampton Wanderers,Matchweek 1,Sat,L,0.0,2.0,Arsenal,0.5,1.2,47.0,Mario Lemina,4-2-3-1,4-3-3,Jarred Gillett,9,3,19.3,1.0,0,0,2024
+2024-08-25,14:00,Wolverhampton Wanderers,Matchweek 2,Sun,L,2.0,6.0,Chelsea,1.9,1.6,40.0,Mario Lemina,4-2-3-1,4-2-3-1,Darren England,12,4,19.1,1.0,0,0,2024
+2024-08-31,15:00,Wolverhampton Wanderers,Matchweek 3,Sat,D,1.0,1.0,Nott'ham Forest,0.7,1.0,48.0,Mario Lemina,4-4-1-1,4-2-3-1,Simon Hooper,11,2,20.7,0.0,0,0,2024
+2024-09-15,16:30,Wolverhampton Wanderers,Matchweek 4,Sun,L,1.0,2.0,Newcastle Utd,1.2,1.5,49.0,Mario Lemina,4-4-1-1,4-3-3,Chris Kavanagh,12,5,15.2,0.0,0,0,2024
+2024-09-21,15:00,Wolverhampton Wanderers,Matchweek 5,Sat,L,1.0,3.0,Aston Villa,0.5,1.7,47.0,Mario Lemina,4-1-4-1,4-2-3-1,Tim Robinson,10,4,14.9,0.0,0,0,2024
+2024-09-28,17:30,Wolverhampton Wanderers,Matchweek 6,Sat,L,1.0,2.0,Liverpool,0.6,2.5,45.0,Mario Lemina,4-1-4-1,4-2-3-1,Anthony Taylor,8,3,22.9,0.0,0,0,2024
